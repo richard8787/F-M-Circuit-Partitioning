@@ -11,3 +11,5 @@ make
 ```
 ./fm <input_file> <output_file>
 ```
+
+- Credit: Physical Design for Nanometer ICs, Spring 2023 @ National Taiwan University
