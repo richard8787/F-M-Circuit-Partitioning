@@ -5,8 +5,7 @@ Implement Fiduccia-Mattheyses Heuristic to do circuit partitioning
 
 - Compile
 ```
-make clean
-make
+make clean && make
 ```
 
 - Run
